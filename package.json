@@ -1,0 +1,25 @@
+{
+  "name": "yii2-minimal-console",
+  "description": "Yii 2 minimal Console Application Template",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungsijawir/yii2-minimal-console.git"
+  },
+  "keywords": [
+    "php",
+    "framework"
+  ],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/agungsijawir/yii2-minimal-console/issues"
+  },
+  "homepage": "https://github.com/agungsijawir/yii2-minimal-console"
+}
